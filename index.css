@@ -1,0 +1,641 @@
+.header {
+    padding-left: 138px;
+    padding-right: 132px;
+    width: 1440px;
+    height: 918px;
+}
+
+.container {
+    display: flex;
+}
+
+
+.header-logo {
+    margin-top: 0%;
+    margin-left: 8%;
+    color: #2E2E2E;
+    font-family: Righteous;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px;
+}
+
+.nav {
+    margin-left: 20%;
+    margin-top: 3.5%;
+    color: #2E2E2E;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: #2E2E2E;
+    transition: 0.2s;
+}
+
+.nav a:hover {
+    text-decoration-line: underline;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.header-ell {
+    margin-top: 2.5%;
+    padding-left: 28%;
+    display: flex;
+    width: 90px;
+    height: 90px;
+    flex-shrink: 0;
+}
+
+
+
+.vector {
+    position: absolute;
+    transform: rotate(6.507deg);
+    flex-shrink: 0;
+    left: -250px;
+}
+
+.vector1 {
+    position: absolute;
+    width: 1042.133px;
+    height: 789.508px;
+}
+
+.vector2 {
+    position: absolute;
+    width: 1032.828px;
+    height: 806.466px;
+}
+
+.vector3 {
+    position: absolute;
+    width: 1025.274px;
+    height: 825.606px;
+}
+
+.vector4 {
+    position: absolute;
+    width: 1021.041px;
+    height: 846.652px;
+}
+
+.vector5 {
+    position: absolute;
+    width: 1022.328px;
+    height: 869.359px;
+}
+
+.vector6 {
+    position: absolute;
+    width: 1032.256px;
+    height: 893.402px;
+}
+
+.vector7 {
+    position: absolute;
+    width: 1057.258px;
+    height: 918.487px;
+}
+
+.vector8 {
+    position: absolute;
+    width: 1091.443px;
+    height: 944.527px;
+}
+
+.vector9 {
+    position: absolute;
+    width: 1131.551px;
+    height: 970.913px;
+}
+
+
+
+.title-phrase {
+    margin-left: 10px;
+    margin-top: 174px;
+    color: #2E2E2E;
+    font-family: Righteous;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+    text-decoration-line: underline;
+}
+
+
+.container-2 {
+    display: flex;
+    padding-left: 138px;
+    padding-right: 128px;
+    position: relative;
+}
+
+.header_sneakers1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 135px;
+    display: flex;
+    width: 558px;
+    height: 305px;
+    flex-shrink: 0;
+}
+
+.header_sneakers2 {
+    padding-left: 54px;
+    width: 558px;
+    height: 305px;
+    flex-shrink: 0;
+    margin-left: 54px;
+}
+
+.title-btwn-photo {
+    display: inline-block;
+    color: #2E2E2E;
+    font-family: Anton;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%;
+}
+
+.title-btwn-photo1 {
+    float: left;
+    display: flex;
+    margin-left: 135px;
+    margin-top: 70px;
+}
+
+.title-btwn-photo2 {
+    float: left;
+    position: absolute;
+    display: flex;
+    margin-left: 800px;
+    margin-top: 350px;
+}
+
+.buy-now {
+    display: inline-flex;
+    margin-left: 900px;
+    margin-top: 150px;
+    padding: 30px 60px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+body {
+    background-image: url('img/blue-bg.png');
+    background-position: 900px;
+    background-size: 1100px;
+    background-image: url('img/pink_background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    margin-left: 274px;
+}
+
+.most-popular-brand {
+    width: 1522px;
+    height: 283px;
+    flex-shrink: 0;
+    padding-top: 400px;
+}
+
+.main-title1 {
+    margin-bottom: 13px;
+    color: #2E2E2E;
+    font-family: Righteous;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.discrip-main1 {
+    margin-top: 0;
+    color: #504C48;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.bg-adidas {
+    margin-left: 117px;
+}
+
+.bg-apex {
+    margin-left: 117px;
+}
+
+.bg-bafa {
+    position: absolute;
+    margin-left: 117px;
+}
+
+.nike {
+    position: absolute;
+    margin-top: -123px;
+    margin-left: 18px;
+}
+
+.adidas {
+    position: absolute;
+    margin-top: -123px;
+    margin-left: 495px;
+}
+
+.apex {
+    position: absolute;
+    margin-top: -123px;
+    margin-left: 975px;
+}
+
+.bafa {
+    position: absolute;
+    margin-top: -123px;
+    margin-left: 1449px;
+}
+
+.brands-text {
+    position: absolute;
+    color: #FFF;
+    font-family: Righteous;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.nike-text {
+    position: absolute;
+    top: 33%;
+    margin-top: -110px;
+    margin-left: 150px;
+}
+
+.adidas-text {
+    position: absolute;
+    top: 33%;
+    margin-left: 620px;
+    margin-top: -110px;
+} 
+
+.apex-text {
+    position: absolute;
+    top: 33%;
+    margin-left: 1100px;
+    margin-top: -110px;    
+}
+
+.shoes-collections {
+    width: 1570px;
+    height: 567px;
+}
+
+.main-title2 {
+    position: absolute;
+    margin-top: 120px;
+    color: #2E2E2E;
+    font-family: Righteous;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.discrip-main2 {
+    position: absolute;
+    margin-top: 190px;
+    color: #504C48;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.main-sneakers {
+    width: 370px;
+    height: 300px;
+    flex-shrink: 0;
+}
+
+.airmax80 {
+    position: absolute;
+    margin-top: 300px;
+}
+
+.airmax90 {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 490px;
+}
+
+.airmaxsystem {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 980px;
+}
+
+.airmax {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1471px;
+}
+
+.main-sneakers-text {
+    position: absolute;
+    color: #2E2E2E;
+    font-family: Inter;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.airmax80-text {
+    position: absolute;
+    margin-top: 320px;
+}
+
+.airmax90-text {
+    margin-top: 320px;
+    margin-left: 490px;
+}
+
+.airmaxsystem-text {
+    margin-top: -70px;
+    margin-left: 985px;
+}
+
+.airmax-text {
+    margin-top: -70px;
+    margin-left: 1470px;
+}
+
+.main-sneakers-price {
+    position: absolute;
+    color: #2E2E2E;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.airmax80-price {
+    margin-top: 370px;
+}
+
+.airmax90-price {
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 490px;
+}
+
+.airmaxsystem-price {
+    margin-top: -55px;
+    margin-left: 985px;
+}
+
+.airmax-price {
+    margin-top: -55px;
+    margin-left: 1470px;
+}
+
+.main-cart {
+    position: absolute;
+    margin-top: 330px;
+}
+
+.cart-1 {
+    margin-left: 300px;
+}
+
+.cart-2 {
+    margin-left: 420px;
+}
+
+.cart-3 {
+    margin-left: 420px;
+}
+
+.main-newsletter {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -283px;
+}
+
+.green-bg {
+    width: 1856px;
+    height: 480px;
+}
+
+.newsletter-title {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 380px;
+    color: #FFFFFF;
+    font-family: Righteous;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px;
+}
+
+.newsletter-title2 {
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 380px;
+    color: #FFFFFF;
+    font-family: Righteous;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px;
+}
+
+.newsletter-descrip {
+    position: absolute;
+    margin-top: -240px;
+    margin-left: 380px;
+    color: #FFFFFF;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.buttons {
+    margin-top: -120px;
+}
+
+.bg-email {
+    position: absolute;
+    margin-left: 380px;
+}
+
+.subscribe {
+    position: absolute;
+    margin-left: 800px;
+}
+
+.email-text {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 400px;
+    color: #504C48;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.footer-sneakers {
+    position: absolute;
+    margin-top: -460px;
+    margin-left: 1200px;
+}
+
+.footer-title {
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: 280px;
+    color: #2E2E2E;
+    font-family: Righteous;
+    font-size: 44px;
+    font-style: normal;
+}
+
+.footer-descrip {
+    position: absolute;
+    margin-top: 1130px;
+    margin-left: 280px;
+    font-family: Manrope;
+    font-size: 18px ;
+    color: #2E2E2E;
+}
+
+.location {
+    margin-left: 700px;
+}
+
+.location-title {
+    position: absolute;
+    margin-top: 1050px;
+    font-family: Manrope;
+    font-size: 30px;
+    color: #2E2E2E;
+}
+
+.location-1 {
+    position: absolute;
+    margin-top: 1130px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.location-2 {
+    position: absolute;
+    margin-top: 1170px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.links {
+    margin-left: 1200px;
+}
+
+.links-title {
+    position: absolute;
+    margin-top: 1050px;
+    font-family: Manrope;
+    font-size: 30px;
+    color: #2E2E2E;
+}
+
+.links-shop {
+    position: absolute;
+    margin-top: 1130px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.links-catagories {
+    position: absolute;
+    margin-top: 1180px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.links-contact-us {
+    position: absolute;
+    margin-top: 1230px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.links-cart {
+    position: absolute;
+    margin-top: 1280px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.legal {
+    margin-left: 1500px;
+}
+
+.legal-title {
+    position: absolute;
+    margin-top: 1050px;
+    font-family: Manrope;
+    font-size: 30px;
+    color: #2E2E2E;
+}
+
+.legal-privacy-policy {
+    position: absolute;
+    margin-top: 1130px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.legal-terms-of-cond {
+    position: absolute;
+    margin-top: 1180px;
+    font-family: Manrope;
+    font-size: 20px;
+    color: #2E2E2E;
+}
+
+.footer-bottom {
+    position: absolute;
+    margin-top: 1450px;
+    margin-left: 800px;
+    font-family: Manrope;
+    font-size: 18px;
+    color: #2E2E2E;
+}
